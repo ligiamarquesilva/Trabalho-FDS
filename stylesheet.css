@@ -1,0 +1,44 @@
+html{
+    background-color: rgb(255, 248, 243);
+ }
+h1, h3{
+    text-align:center;
+    color:rgb(211, 172, 244);
+    font-size:35px;
+ }
+ .nome{
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;
+ }
+p{
+    text-align:justify;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:100px;
+    margin-right:100px;
+ }
+ul{
+    margin-left:100px;
+    padding:20px;
+    font-size: 18px;
+ }
+table, td{
+    text-align:center;
+    margin:20px auto;
+    padding:15px;
+    border:5px solid rgb(211, 172, 244);
+    border-collapse:collapse;
+}
+.foto{
+    width:220px;
+    height:250px;
+    border-radius:20px;
+    padding:15px;
+}
+a{
+    color:rgb(211, 172, 244);
+}
+a:hover{
+    color: palevioletred;
+    text-decoration:none;
+}
